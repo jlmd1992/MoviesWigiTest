@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoviesWigiTest</string>
+    <string name="list_is_empty">List is empty</string>
+    <string name="overview_label">Overview</string>
+    <string name="vote_average_label">Vote average:</string>
+    <string name="popularity_label">Popularity:</string>
+    <string name="favorites_menu_label">Favorites</string>
+    <string name="favorites_list_is_empty">Favorites list is empty</string>
+</resources>
